@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning** <br />
 - 👨‍💻 All of my projects are
-available at [sagarmajhidev.verce.app](sagarmajhidev.vercel.app) <br />
+available at [sagarmajhidev.vercel.app](sagarmajhidev.vercel.app) <br />
 - 📫 How to reach me **robot72427@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
