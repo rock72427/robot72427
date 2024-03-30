@@ -8,9 +8,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning** - 👨‍💻 All of my projects are
-available at [sagarmajhidev.verce.app](sagarmajhidev.verce.app) - 📫 How to
-reach me **robot72427@gmail.com**
+- 🌱 I’m currently learning **Machine Learning** <br />
+- 👨‍💻 All of my projects are
+available at [sagarmajhidev.verce.app](sagarmajhidev.verce.app) <br />
+- 📫 How to reach me **robot72427@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
